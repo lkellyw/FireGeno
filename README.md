@@ -3,7 +3,7 @@
 **FireGeno** is an AI-powered genomic decision support platform that predicts antibiotic resistance directly from bacterial whole-genome sequences, helping clinicians identify effective antibiotics faster.
 
 ## Web Demo 
-https://discord.com/channels/@me/1528110946755805325/1528290527806619690
+https://lovable.dev/preview/nXmiVc3LpfPF6t9GYWhvd2AkMOxslqja
 
 ## Features
 
